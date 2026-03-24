@@ -7,6 +7,6 @@ This pipeline orchestates all the fabric items in order to run the workflow ever
 The notebooks can take 1 parameter to change the company's name so we can retrieve data from diferent companies that are available in the vantage API.
 
 ## Design
-In the following image you can see the diferent items that were used for the project.
+In the following image you can see the diferent tasks that are being orchestrated on the pipeline.
 
 ![](../Screenshots/pipeline-definition.png)
